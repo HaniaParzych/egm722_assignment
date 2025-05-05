@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><ows:ExceptionReport xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ows="http://www.opengis.net/ows/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0.0" xsi:schemaLocation="http://www.opengis.net/ows/1.1 https://dsp-geoserver.agrimetrics.co.uk/geoserver/schemas/ows/1.1.0/owsAll.xsd">
+<ows:Exception exceptionCode="NoApplicableCode">
+<ows:ExceptionText>java.lang.RuntimeExceptionorg.postgresql.util.PSQLException: ERROR: column &amp;quot;nnr_name&amp;quot; does not exist
+  Position: 19
+ERROR: column &amp;quot;nnr_name&amp;quot; does not exist
+  Position: 19</ows:ExceptionText>
+</ows:Exception>
+</ows:ExceptionReport>
